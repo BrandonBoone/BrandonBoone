@@ -25,7 +25,7 @@ My name is Brandon Boone. I'm a software enineer from the USA, working in the he
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonBoone&hide=java,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/BrandonBoone/BrandonBoone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonBoone&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BrandonBoone's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandonBoone&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3CE5FF&bg_color=1d1f21" alt="BrandonBoone's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
