@@ -2,7 +2,9 @@
 
 # Hi There 👋
 
-My name is Brandon Boone. I'm a software enineer from the USA, working in the healthcare industry since 2007. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Brandon Boone. I'm a software enineer from the USA, working in the healthcare industry since 2007. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<a href="https://stackoverflow.com/users/402706/brandon-boone"><img src="https://stackoverflow.com/users/flair/402706.png" width="208" height="58" alt="profile for Brandon Boone at Stack Overflow" title="profile for Brandon Boone at Stack Overflow"></a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=3CE5FF)
